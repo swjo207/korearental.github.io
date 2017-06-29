@@ -12,72 +12,52 @@ share: true
 | <span id="Contexte" class="anchor"></span>***DESS Professional Edition***                        |
 | <span id="Titre" class="anchor"><span id="Version" class="anchor"></span></span>*Install Guide * |
 
-| Author         | 기술 지원팀 (AHOPE Ltd.) |
-|----------------|--------------------------|
-| Current Status | 1.1                      |
-| Date           | 2017-06-28               |
-
-개정이력
-========
-
-| Version | Updates   | Date       | Name   |
-|---------|-----------|------------|--------|
-| 1.0     | 초안 작성 | 2017-06-27 | 김 성  |
-| 1.1     | 용어 수정 | 2017-06-28 | 조성원 |
-|         |           |            |        |
-|         |           |            |        |
-|         |           |            |        |
-|         |           |            |        |
-|         |           |            |        |
-|         |           |            |        |
-|         |           |            |        |
 
 목 차
 =====
 
-<span id="OLE_LINK65" class="anchor"><span id="OLE_LINK64" class="anchor"><span id="OLE_LINK63" class="anchor"></span></span></span>*개정이력* 2
 
-[*목 차* 3](#목-차)
+[*목 차* ](#목-차)
 
-[*1.* *개요* 4](#개요)
+[*1.* *개요* ](#개요)
 
-[*1.1* *용어 정의* 4](#용어-정의)
+[*1.1* *용어 정의* ](#용어-정의)
 
-[*1.2* *제약 사항* 4](#제약-사항)
+[*1.2* *제약 사항* ](#제약-사항)
 
-[*2.* *준비물* 5](#준비물)
+[*2.* *준비물* ](#준비물)
 
-[*2.1* *환경 설정* 5](#환경-설정)
+[*2.1* *환경 설정* ](#환경-설정)
 
-[*2.2* *우분투 설치 USB* 6](#우분투-설치-usb)
+[*2.2* *우분투 설치 USB* ](#우분투-설치-usb)
 
-[*2.3* *DESS 스탠다드 에디션 서버 설치 순서* 6](#section)
+[*2.3* *DESS 스탠다드 에디션 서버 설치 순서* ](#section)
 
-[*3.* *DB 서버 설치* 7](#db-서버-설치)
+[*3.* *DB 서버 설치* ](#db-서버-설치)
 
-[*3.1* *우분투 설치* 8](#우분투-설치)
+[*3.1* *우분투 설치* ](#우분투-설치)
 
-[*3.2* *DBMS 설치* 13](#dbms-설치)
+[*3.2* *DBMS 설치* ](#dbms-설치)
 
-[*3.3* *MMS(=local server)로의 접근권한 부여* 14](#mmslocal-server로의-접근권한-부여)
+[*3.3* *MMS(=local server)로의 접근권한 부여* ](#mmslocal-server로의-접근권한-부여)
 
-[*4.* *MMS 서버 (=local server) 설치* 15](#bms-서버-설치)
+[*4.* *MMS 서버 (=local server) 설치* ](#bms-서버-설치)
 
-[*4.1* *파티션 설정* 16](#파티션-설정)
+[*4.1* *파티션 설정* ](#파티션-설정)
 
-[*4.2* *우분투 설치* 20](#우분투-설치-1)
+[*4.2* *우분투 설치* ](#우분투-설치-1)
 
-[*4.3* *Installer 실행* 26](#installer-실행)
+[*4.3* *Installer 실행* ](#installer-실행)
 
-[*4.4* *설치 페이지 열기* 28](#설치-페이지-열기)
+[*4.4* *설치 페이지 열기* ](#설치-페이지-열기)
 
-[*4.5* *설치 페이지 실행* 28](#설치-페이지-실행)
+[*4.5* *설치 페이지 실행* ](#설치-페이지-실행)
 
-[*5.* *Q & A* 36](#q-a)
+[*5.* *Q & A* ](#q-a)
 
-[*5.1* *MMS(local server) 설치 시 오류 발생하는 경우* 36](#mmslocal-server-설치-시-오류-발생하는-경우)
+[*5.1* *MMS(local server) 설치 시 오류 발생하는 경우* ](#mmslocal-server-설치-시-오류-발생하는-경우)
 
-[*5.2* *디스크 파티션 설정 오류* 38](#디스크-파티션-설정-오류)
+[*5.2* *디스크 파티션 설정 오류* ](#디스크-파티션-설정-오류)
 
 <span id="OLE_LINK66" class="anchor"><span id="OLE_LINK67" class="anchor"><span id="OLE_LINK631" class="anchor"><span id="OLE_LINK641" class="anchor"><span id="OLE_LINK651" class="anchor"></span></span></span></span></span>
 
