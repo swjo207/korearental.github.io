@@ -413,7 +413,7 @@ share: true
 
 1.  Gparted Partition Editor 을 실행한다
 
-> <img src="/images/install_basic/media/image36.png" width="442" height="279" />
+> <img src="/images/install_basic/media/image36.png" />
 
 1.  본 **매뉴얼 9페이지 3을** 참조하여 모든 파티션 테이블이 “msdos”로 설정되어 있는지 확인한다.
 
