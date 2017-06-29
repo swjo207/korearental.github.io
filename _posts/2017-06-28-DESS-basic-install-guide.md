@@ -120,7 +120,6 @@ share: true
         1.  DBMS 설치 구성에 의존하여 자동으로 설치 됨
 
 ## 3. 우분투 설치
-===========
 
 -   <span id="_Toc479343209" class="anchor"></span>서버 설치는 리눅스 운영체제 위에 동작하도록 설계 되어 있어, 이 글을 읽고 있는 엔지니어는 리눅스 운영체제에 대해 어느 정도 지식을 가지고 있는 것을 가정하기로 한다. (이에 대해서는 다음 사이트를 참고함 - https://tutorials.ubuntu.com/tutorial/tutorial-install-ubuntu-desktop)
 
