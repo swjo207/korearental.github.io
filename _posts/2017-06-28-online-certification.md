@@ -43,9 +43,9 @@ share: true
 
     *  화면에는 요청한 시리얼 번호리스트 출력됨
 
-<img src="/images/online_cert_guide/media/image2.png" width="615" height="196" />
+    *  새로운 요청 추가 메뉴를 클릭하여 신규 시리얼 번호를 요청한다. 
 
-    * 새로운 요청 추가 메뉴
+<img src="/images/online_cert_guide/media/image2.png" width="615" height="196" />
 
 3.  요청 페이지 입력 값
 

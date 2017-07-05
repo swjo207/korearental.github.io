@@ -132,32 +132,32 @@ share: true
 
 #### 3)  Install Ubuntu를 선택한다. (실제 디스크에 설치하는 과정)
 
-<img src=" /images/db_cluster_install/media/image1.png" width="412" height="302" />
+<img src="/images/db_cluster_install/media/image1.png" width="412" height="302" />
 
 #### 4)  와이파이 모양 아이콘 -&gt; Edit Connections를 누른다. (Ethernet 리스트는 하드웨어 스펙에 따라 상이함)
 
-<img src=" /images/db_cluster_install/media/image2.png" width="404" height="302" />
+<img src="/images/db_cluster_install/media/image2.png" width="404" height="302" />
 
 #### 5)  Wired connection 1을 선택하고 Edit 버튼을 누른다.
 
 #### 6)  Editing Wired connection 1 창에서 IPv4 Settings 탭으로 이동한다.
 
-<img src=" /images/db_cluster_install/media/image3.png" width="402" height="302" />
+<img src="/images/db_cluster_install/media/image3.png" width="402" height="302" />
 
 #### 7)  Method를 Manual로 변경하고 Add버튼을 눌러 Address, Network, Gateway, DNS servers를 입력한다. (아이피 정보는 네트워크 환경에 따라 상이함)
 
-<img src=" /images/db_cluster_install/media/image4.png" width="403" height="302" />
+<img src="/images/db_cluster_install/media/image4.png" width="403" height="302" />
 
 
 #### 8)  저장 버튼을 눌러 인터넷에 연결되는지 체크한다.
 
 #### 9)  인터넷이 연결되었다면 Continue 버튼을 누른다.
 
-<img src=" /images/db_cluster_install/media/image5.png" width="350" height="262" />
+<img src="/images/db_cluster_install/media/image5.png" width="350" height="262" />
 
 #### 10)  Something else를 누르고 Continue 버튼을 누른다.
 
-<img src=" /images/db_cluster_install/media/image6.png" width="344" height="258" />
+<img src="/images/db_cluster_install/media/image6.png" width="344" height="258" />
 
 
 #### 11)  우분투를 설치 할 /dev/sda1(100G)를 선택하고 Change를 누른다.
@@ -166,15 +166,15 @@ share: true
 
 #### 13)  /dev/sda1을 제외한 나머지 파티션은 기억한다. (/dev/sdb와 같이 숫자로 끝나지 않는 것은 뺌)
 
-<img src=" /images/db_cluster_install/media/image7.png" width="384" height="287" />
+<img src="/images/db_cluster_install/media/image7.png" width="384" height="287" />
 
 #### 14)  /dev/sda1을 선택하고 인스톨을 시작한다.
 
 #### 15)  이어서 나오는 Do you want to return to the partitioning menu? / Do you want to return to the partitioner? 에서는 모두 Continue를 선택한다.
 
-<img src=" /images/db_cluster_install/media/image8.png" width="403" height="302" />
+<img src="/images/db_cluster_install/media/image8.png" width="403" height="302" />
 
-<img src=" /images/db_cluster_install/media/image9.png" width="405" height="302" />
+<img src="/images/db_cluster_install/media/image9.png" width="405" height="302" />
 
 #### 16)  이어서 나오는 지역 설정, 키보드 설정은 default 값으로 한다.
 
@@ -182,7 +182,7 @@ share: true
 
 #### 18)  사용자 계정은 우분투 로그인할 때 사용되니 반드시 기억한다.
 
-<img src=" /images/db_cluster_install/media/image10.png" width="468" height="349" />
+<img src="/images/db_cluster_install/media/image10.png" width="468" height="349" />
 
 #### 19)  재 부팅 후 BIOS 설정에서 부팅 순서를 HDD 부팅이 1순위로 변경한다.
 
@@ -209,7 +209,7 @@ share: true
 
 8)  실행하면, 하단의 그림과 같이 설치가 자동으로 진행이 되면서 설치가 완료된다.
 
-<img src=" /images/db_cluster_install/media/image11.png" width="554" height="351" />
+<img src="/images/db_cluster_install/media/image11.png" width="554" height="351" />
 
 ### 4.2 DB Cluster 설정
 
@@ -219,7 +219,7 @@ share: true
 
 3)  E.g.) 첫번째 붉은색 입력 (Cluster IP Address = e.g. 192.168.0.1, ~~~)
 
-4)  <img src=" /images/db_cluster_install/media/image12.png" width="516" height="255" />다음 물음이 나오면 현재 서버 IP를 입력한다. (Current Cluster IP Address)
+4)  <img src="/images/db_cluster_install/media/image12.png" width="516" height="255" />다음 물음이 나오면 현재 서버 IP를 입력한다. (Current Cluster IP Address)
 
 5)  다른 서버에도 위 과정을 동일하게 진행한다.
 
@@ -227,7 +227,7 @@ share: true
 
 6)  입력 완료 되면 서비스 재 시작 하여야 한다. (단 1개의 서버에서만 진행 하면 된다. 그 외의 서버는 재 시작 하면 된다.)
 
-<img src=" /images/db_cluster_install/media/image13.png" width="642" height="103" />
+<img src="/images/db_cluster_install/media/image13.png" width="642" height="103" />
 
 7)  서비스 재 시작 후 HA Proxy 에 대한 설정을 진행하게 된다.
 
@@ -242,7 +242,7 @@ share: true
 
 4)  \[2\]. Grant Permission For HAProxy User 을 선택
 
-5)  <img src=" /images/db_cluster_install/media/image14.png" width="516" height="256" />HA Proxy 서버 IP를 입력하고 DB 암호를 입력한다.
+5)  <img src="/images/db_cluster_install/media/image14.png" width="516" height="256" />HA Proxy 서버 IP를 입력하고 DB 암호를 입력한다.
 
 ### 4.4 HA Proxy 설치
 
@@ -257,17 +257,17 @@ share: true
 
 5)  다음 화면처럼 출력되고,
 
-6)  <img src=" /images/db_cluster_install/media/image15.png" width="597" height="209" />프록시 서버 IP를 입력하고, DB 서버 수를 입력한다.
+6)  <img src="/images/db_cluster_install/media/image15.png" width="597" height="209" />프록시 서버 IP를 입력하고, DB 서버 수를 입력한다.
 
 7)  다음으로 각 데이터베이스 IP 를 입력한다.
 
-8)  <img src=" /images/db_cluster_install/media/image16.png" width="587" height="270" />정상적인 경우 다음과 같은 화면이 출력된다.
+8)  <img src="/images/db_cluster_install/media/image16.png" width="587" height="270" />정상적인 경우 다음과 같은 화면이 출력된다.
 
 ### 4.5 설치 정상여부 검증하기
 
 1)  임의의 DB 서버에 접속하여 다음과 같이 화면이 출력되면 성공한 것이다.
 
-<img src=" /images/db_cluster_install/media/image17.png" width="564" height="243" />
+<img src="/images/db_cluster_install/media/image17.png" width="564" height="243" />
 
 ## 5. Q & A
 
