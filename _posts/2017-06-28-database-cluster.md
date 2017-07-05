@@ -132,7 +132,7 @@ share: true
 
 #### 3)  Install Ubuntu를 선택한다. (실제 디스크에 설치하는 과정)
 
-![1](/images/db_cluster_install/media/image1.png)
+[<img src="/images/db_cluster_install/media/image1.png" width="600"  />]
 
 #### 4)  와이파이 모양 아이콘 -&gt; Edit Connections를 누른다. (Ethernet 리스트는 하드웨어 스펙에 따라 상이함)
 
