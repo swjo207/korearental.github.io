@@ -37,7 +37,7 @@ share: true
 
 -   발급 받은 아이디로 로그인 한다.
 
-<img src="/images/online_cert_guide/media/image1.png" width="530" height="246" />
+<img src="/images/online_cert_guide/media/image1.png" width="600"/>
 
 #### 2)  시리얼 번호 요청 페이지
 
@@ -45,7 +45,7 @@ share: true
 
 -   새로운 요청 추가 메뉴를 클릭하여 신규 시리얼 번호를 요청한다.
 
-<img src="/images/online_cert_guide/media/image2.png" width="615" height="196" />
+<img src="/images/online_cert_guide/media/image2.png" width="600"  />
 
 #### 3)  요청 페이지 입력 값
 
@@ -55,14 +55,14 @@ share: true
 
 -   인증 만료일은 인증만료 날자를 입력 하여야하며 입력값 폼은 2017-12-31 과 같은 폼으로 입력 하여야 한다.
 
-<img src="/images/online_cert_guide/media/image3.png" width="403" height="221" />
+<img src="/images/online_cert_guide/media/image3.png" width="600" />
 
 
 #### 4)  시리얼 번호 확인
 
 -   신청 완료 하면 인증관리 페이지에서 시리얼 번호 확인 및 복사 한다.
 
-<img src="/images/online_cert_guide/media/image4.png" width="566" height="157" />
+<img src="/images/online_cert_guide/media/image4.png" width="600" />
 
 ### 2.2 온라인 인증 요청
 
@@ -76,7 +76,7 @@ share: true
 
     4)  성공 할 경우 버튼 이름이 인증완료로 변경된다.
 
-<img src="/images/online_cert_guide/media/image5.png" width="537" height="498" />
+<img src="/images/online_cert_guide/media/image5.png" width="600"  />
 
 ### 2.3 온라인 인증 확인
 
@@ -84,4 +84,4 @@ share: true
 
     1)  인증 처리 목록 페이지 이동 시 인증 완료 값이 ok 일 경우 인증 됨.
 
-<img src="/images/online_cert_guide/media/image6.png" width="642" height="172" />
+<img src="/images/online_cert_guide/media/image6.png" width="600"  />
