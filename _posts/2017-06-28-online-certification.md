@@ -12,9 +12,9 @@ share: true
 
 [*1.* *개요* ](#개요)
 
-[*1.1* *제약* ](#제약)
+[*1.1* *제약 사항* ](#제약)
 
-[*2.* *온라인 이증 신청* ](#온라인-인증-신청)
+[*2.* *온라인 인증 신청* ](#온라인-인증-신청)
 
 [*2.1* *시리얼번호 발급 신청* ](#시리얼번호-발급-신청)
 
@@ -33,17 +33,23 @@ share: true
 
 ### 2.1 시리얼번호 발급 신청
 
-1.  <img src="/images/online_cert_guide/media/image1.png" width="530" height="246" />온라인 인증 서버 로그인
+1.  온라인 인증 서버 로그인
 
     *  발급 받은 아이디로 로그인 한다.
 
+<img src="/images/online_cert_guide/media/image1.png" width="530" height="246" />
+
 2.  시리얼 번호 요청 페이지
 
-    *  화면에는 요청한 시리얼 번호리스트 출력
+    *  화면에는 요청한 시리얼 번호리스트 출력됨
 
-    *  <img src="/images/online_cert_guide/media/image2.png" width="615" height="196" />새로운 요청 추가 메뉴
+<img src="/images/online_cert_guide/media/image2.png" width="615" height="196" />
 
-3.  <img src="/images/online_cert_guide/media/image3.png" width="403" height="221" />요청 페이지 입력 값
+    * 새로운 요청 추가 메뉴
+
+3.  요청 페이지 입력 값
+
+<img src="/images/online_cert_guide/media/image3.png" width="403" height="221" />
 
     *  회사란에는 고객 회사이름 자성. (단 한 회사에 여러 개의 시스템 적용 하 때 회사이름 뒤에 추가적인 정보입력 하여야 한다. Ahope-랩실1, ahope-랩실2)
 
@@ -51,13 +57,15 @@ share: true
 
     *  인증 만료일은 인증만료 날자를 입력 하여야하며 입력값 폼은 2017-12-31 과 같은 폼으로 입력 하여야 한다.
 
-4.  <img src="/images/online_cert_guide/media/image4.png" width="566" height="157" />시리얼 번호 확인
+4.  시리얼 번호 확인
 
     *  신청 완료 하면 인증관리 페이지에서 시리얼 번호 확인 및 복사 한다.
 
+<img src="/images/online_cert_guide/media/image4.png" width="566" height="157" />
+
 ### 2.2 온라인 인증 요청
 
-1.  <img src="/images/online_cert_guide/media/image5.png" width="537" height="498" />온라인 인증 서버 로그인
+1.  온라인 인증 서버 로그인
 
     1)  디스크리스 서버 관리자 페이지에서 관리자 설정페이지 진입
 
@@ -67,8 +75,12 @@ share: true
 
     4)  성공 할 경우 버튼 이름이 인증완료로 변경된다.
 
+<img src="/images/online_cert_guide/media/image5.png" width="537" height="498" />
+
 ### 2.3 온라인 인증 확인
 
 1.  온라인 인증 서버 에서도 인증 확인 가능 하다.
 
-    1)  인증<img src="/images/online_cert_guide/media/image6.png" width="642" height="172" /> 처리 목록 페이지 이동 시 인증 완료 값이 ok 일 경우 인증 됨.
+    1)  인증 처리 목록 페이지 이동 시 인증 완료 값이 ok 일 경우 인증 됨.
+
+<img src="/images/online_cert_guide/media/image6.png" width="642" height="172" />
