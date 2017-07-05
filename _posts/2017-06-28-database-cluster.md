@@ -219,11 +219,13 @@ share: true
 
 3)  E.g.) 첫번째 붉은색 입력 (Cluster IP Address = e.g. 192.168.0.1, ~~~)
 
-4)  <img src="/images/db_cluster_install/media/image12.png" width="516" height="255" />다음 물음이 나오면 현재 서버 IP를 입력한다. (Current Cluster IP Address)
+<img src="/images/db_cluster_install/media/image12.png" width="516" height="255" />
+
+4)  다음 물음이 나오면 현재 서버 IP를 입력한다. (Current Cluster IP Address)
 
 5)  다른 서버에도 위 과정을 동일하게 진행한다.
 
-\*\* 다음 명령어는 한 개 서버에서 설정 하면 되고, 모든 컴퓨터에서 설정 하지 않아도 된다.
+    * 다음 명령어는 한 개 서버에서 설정 하면 되고, 모든 컴퓨터에서 설정 하지 않아도 된다.
 
 6)  입력 완료 되면 서비스 재 시작 하여야 한다. (단 1개의 서버에서만 진행 하면 된다. 그 외의 서버는 재 시작 하면 된다.)
 
@@ -242,7 +244,9 @@ share: true
 
 4)  \[2\]. Grant Permission For HAProxy User 을 선택
 
-5)  <img src="/images/db_cluster_install/media/image14.png" width="516" height="256" />HA Proxy 서버 IP를 입력하고 DB 암호를 입력한다.
+<img src="/images/db_cluster_install/media/image14.png" width="516" height="256" />
+
+5)  HA Proxy 서버 IP를 입력하고 DB 암호를 입력한다.
 
 ### 4.4 HA Proxy 설치
 
@@ -257,11 +261,15 @@ share: true
 
 5)  다음 화면처럼 출력되고,
 
-6)  <img src="/images/db_cluster_install/media/image15.png" width="597" height="209" />프록시 서버 IP를 입력하고, DB 서버 수를 입력한다.
+<img src="/images/db_cluster_install/media/image15.png" width="597" height="209" />
+
+6)  프록시 서버 IP를 입력하고, DB 서버 수를 입력한다.
 
 7)  다음으로 각 데이터베이스 IP 를 입력한다.
 
-8)  <img src="/images/db_cluster_install/media/image16.png" width="587" height="270" />정상적인 경우 다음과 같은 화면이 출력된다.
+<img src="/images/db_cluster_install/media/image16.png" width="587" height="270" />
+
+8)  정상적인 경우 다음과 같은 화면이 출력된다.
 
 ### 4.5 설치 정상여부 검증하기
 
