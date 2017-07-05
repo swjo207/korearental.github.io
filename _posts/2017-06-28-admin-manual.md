@@ -58,22 +58,21 @@ share: true
 [*1.8.1* *관리자 비밀번호 인증* ](#관리자-비밀번호-인증)
 
 
-관리자 매뉴얼
-=============
+## 1. 관리자 매뉴얼
 
- ## 1.1 로그인
+### 1.1 로그인
 
-### 1.1.1 로그인 화면
+#### 1.1.1 로그인 화면
 
 -   클릭 시, 아이디 또는 비밀번호 찾기 페이지로 이동
 
 -   클릭 시, 아이디와 비밀번호가 일치하는 경우 메인 페이지로 이동
 
-<img src="/images/admin_manual/media/image2.png" width="642" height="381" />
+<img src="./admin_manual/media/image3.png" width="642" height="381" />
 
-<span id="_Toc486515757" class="anchor"></span>그림 1 로그인화면
+<span id="_Toc430948858" class="anchor"></span>그림 1 로그인화면
 
-### 1.1.2 아이디 찾기 화면
+#### 1.1.2 아이디 찾기 화면
 
 -   클릭 시, 비밀번호 찾기 페이지로 이동
 
@@ -93,15 +92,15 @@ share: true
 
 -   개인정보가 맞을 경우 아이디의 3자리를 알 수 있다.
 
-<img src="/images/admin_manual/media/image3.png" width="642" height="314" />
+<img src="./admin_manual/media/image4.png" width="642" height="314" />
 
-<span id="_Toc486515758" class="anchor"></span>그림 2 아이디 찾기 화면
+<span id="_Toc430948859" class="anchor"></span>그림 2 아이디 찾기 화면
 
-<img src="/images/admin_manual/media/image4.png" width="642" height="280" />
+<img src="./admin_manual/media/image5.png" width="642" height="280" />
 
-<span id="_Toc486515759" class="anchor"></span>그림 3 아이디 찾기 화면2
+<span id="_Toc430948860" class="anchor"></span>그림 3 아이디 찾기 화면2
 
-### 1.1.3 비밀번호 찾기 화면
+#### 1.1.3 비밀번호 찾기 화면
 
 -   클릭 시, 아이디 찾기 페이지로 이동
 
@@ -119,15 +118,15 @@ share: true
 
 -   개인정보가 같은 경우, 등록된 e-mail로 새 비밀번호 전송
 
-<img src="/images/admin_manual/media/image5.png" width="642" height="352" />
+<img src="./admin_manual/media/image6.png" width="642" height="352" />
 
-<span id="_Toc486515760" class="anchor"></span>그림 4 비밀번호 찾기 화면
+<span id="_Toc430948861" class="anchor"></span>그림 4 비밀번호 찾기 화면
 
-<img src="/images/admin_manual/media/image6.png" width="642" height="264" />
+<img src="./admin_manual/media/image7.png" width="642" height="264" />
 
-<span id="_Toc486515761" class="anchor"></span>그림 5 비밀번호 찾기 화면2
+<span id="_Toc430948862" class="anchor"></span>그림 5 비밀번호 찾기 화면2
 
-## 1.2 관리자 관리 <p id="1.2"></p>
+### 1.2 관리자 관리
 
 -   클릭 시, 선택한 관리자를 삭제
 
@@ -137,11 +136,11 @@ share: true
 
 -   관리자 등록, 삭제, 편집 기능
 
-<img src="/images/admin_manual/media/image7.png" width="642" height="280" />
+<img src="./admin_manual/media/image8.png" width="642" height="280" />
 
-<span id="_Toc486515762" class="anchor"></span>그림 6 관리자 관리 화면
+<span id="_Toc430948863" class="anchor"></span>그림 6 관리자 관리 화면
 
-### 1.2.1 관리자 등록 화면
+#### 1.2.1 관리자 등록 화면
 
 -   클릭 시, 아이디 중복 체크
 
@@ -161,11 +160,11 @@ share: true
 
 -   이름, 생년월일, e-mail은 아이디 찾기 및 비밀번호 찾기 시 필수항목
 
-<img src="/images/admin_manual/media/image8.png" width="642" height="328" />
+<img src="./admin_manual/media/image9.png" width="642" height="328" />
 
-<span id="_Toc486515763" class="anchor"></span>그림 7 관리자 등록 화면
+<span id="_Toc430948864" class="anchor"></span>그림 7 관리자 등록 화면
 
-### 1.2.2 관리자 편집 화면
+#### 1.2.2 관리자 편집 화면
 
 -   클릭 시, 달력을 통해 생년월일 선택
 
@@ -175,11 +174,11 @@ share: true
 
 -   비밀번호 입력 안하고 저장 할 경우 비밀번호 변경 안됨
 
-<img src="/images/admin_manual/media/image9.png" width="642" height="325" />
+<img src="./admin_manual/media/image10.png" width="642" height="325" />
 
-<span id="_Toc486515764" class="anchor"></span>그림 8 관리자 편집 화면
+<span id="_Toc430948865" class="anchor"></span>그림 8 관리자 편집 화면
 
- ## 1.3 Dash Board
+## 1.3 Dash Board
 
 -   클릭 시, 해당 월의 일별 차트로 전환
 
@@ -189,53 +188,63 @@ share: true
 
 -   월 클릭 시 일 별, 일 클릭 시 시간 별 확인 가능
 
-<img src="/images/admin_manual/media/image10.png" width="642" height="414" />
+<img src="./admin_manual/media/image11.png" width="642" height="414" />
 
-<span id="_Toc486515765" class="anchor"></span>그림 21 Dash Board 화면
+<span id="_Toc430948878" class="anchor"></span>그림 21 Dash Board 화면
 
- ## 1.4 서버 관리
+## 1.4 서버 관리
 
 -   클릭 시, 서버의 세부 상태를 나타내는 팝업이 뜸
 
--   DHCP 정보, 서버 정보 및 서버상태 표시
+-   DHCP 정보, 서버 정보 및 서버 상태 표시
 
-<img src="/images/admin_manual/media/image11.png" width="642" height="469" />
+<img src="./admin_manual/media/image12.png" width="642" height="469" />
 
-<span id="_Toc486515766" class="anchor"></span>그림 22 서버 관리 화면
+<span id="_Toc430948879" class="anchor"></span>그림 22 서버 관리 화면
 
-### 1.4.1 서버 상태 화면
+#### 1.4.1 서버 상태 화면
 
 -   서버 상태 클릭 시 세부 상태 확인 가능
 
 -   DHCP 상태, iSCSI 상태, TFTP 상태, Daemon 상태를 나타냄
 
-<img src="/images/admin_manual/media/image12.png" width="199" height="144" />
+<img src="./admin_manual/media/image13.png" width="199" height="144" />
 
-<span id="_Toc486515767" class="anchor"></span>그림 23 서버 상태 화면
+<span id="_Toc430948880" class="anchor"></span>그림 23 서버 상태 화면
 
- ## 1.5 클라이언트 관리
+## 1.5 클라이언트 관리
 
 -   클릭 시, 우측 테이블에 추가한 모든 클라이언트 목록 출력
 
 -   클릭 시, 우측 테이블에 해당 서버로 부팅된 클라이언트 목록 출력
 
--   클릭 시, 클라이언트 단일 등록 팝업이 뜸
+-   클릭 시, 선택된 클라이언트 편집
 
--   클릭 시, 클라이언트 다중 등록 팝업이 뜸
+-   클릭 시, 선택된 클라이언트 업데이트 시작/종료
 
 -   클릭 시, 선택한 클라이언트 전원을 원격으로 켬
 
 -   클릭 시, 선택한 클라이언트 전원을 원격으로 끔
 
--   클릭 시, 선택한 클라이언트 삭제
-
--   클릭 시, 해당 클라이언트 편집
-
--   클릭 시, 해당 클라이언트를 업데이트 시작/종료
-
 -   클릭 시, 해당 클라이언트 윈도우 인스톨 시작/종료
 
 -   클릭 시, 해당 클라이언트 초기화
+
+-   클릭 시, 해당 클라이언트를 삭제
+
+-   클릭 시, 생성된 그룹에 클라이언트 추가
+
+-   클릭 시, 단일 클라이언트 추가
+
+-   클릭 시, 다수의 클라이언트 추가
+
+-   클릭 시, 다수 클라이언트의 전원을 원격으로 켬
+
+-   클릭 시, 다수 클라이언트의 전원을 원격으로 끔
+
+-   클릭 시, 다수 클라이언트를 삭제
+
+-   클릭 시, 새로운 그룹 생성
 
 -   클라이언트 정보 및 전원 확인
 
@@ -249,13 +258,11 @@ share: true
 
 -   업데이트 시작 시 전원이 마스터로 변경
 
-<img src="/images/admin_manual/media/image13.png" width="642" height="387" />
+<img src="./admin_manual/media/image14.png" width="642" height="330" />
 
-<span id="_Toc486515768" class="anchor"></span>그림 26 클라이언트 관리 화면
+<span id="_Toc430948881" class="anchor"></span>그림 26 클라이언트 관리 화면
 
-### 1.5.1 클라이언트 등록 화면
-
--   단일 등록, 다중 등록 가능
+#### 1.5.1 클라이언트 다중 등록 화면
 
 -   Step1. 클라이언트 이름 입력
 
@@ -265,25 +272,46 @@ share: true
 
 -   Step4. 시작 IP주소 입력(예: 220.118.72.1)
 
+-   Step5. 그룹설정(그룹 없을 경우 선택하지 않아도 됨)
+
+-   Step6. os이미지, data이미지 선택
+
+-   Step7. 디스크 리셋 유형 선택(‘안함’으로 선택한 경우 리셋 안됨)
+
+<img src="./admin_manual/media/image15.png" width="404" height="444" />
+
+<span id="_Toc430948882" class="anchor"></span>그림 27 클라이언트 등록 화면
+
+#### 1.5.2 클라이언트 단독 등록 화면
+
+-   S tep1. 클라이언트 이름 입력
+
+-   Step2. 클라이언트 번호 입력(중복 불가능)
+
+-   Step3. 클라이언트 IP주소 입력(예: 220.118.72.1)
+
+-   Step4. 클라이언트 MAC 주소 입력 가능(입력하지 않아도 됨)
+
 -   Step5. os이미지, data이미지 선택
 
 -   Step6. 디스크 리셋 유형 선택(‘안함’으로 선택한 경우 리셋 안됨)
 
-<img src="/images/admin_manual/media/image14.png" width="431" height="419" />
+-   <img src="./admin_manual/media/image16.png" width="402" height="446" />
 
-<span id="_Toc486515769" class="anchor"></span>그림 27 클라이언트 등록 화면
+그림 28 클라이언트 등록 화면
 
-### 1.5.2 클라이언트 수정 화면
+#### 1.5.3 클라이언트 수정 화면
 
--   클라이언트 이름, MAC 주소 변경 불가능
+-   클라이언트 이름 변경 불가능
 
 -   수정할 경우 수정 사항이 모두 적용될 때 까지 다른 기능 사용 불가능
 
-<img src="/images/admin_manual/media/image15.png" width="441" height="353" />
+<img src="./admin_manual/media/image17.png" width="412" height="317" />
 
-<span id="_Toc486515770" class="anchor"></span>그림 28 클라이언트 수정 화면
+<span id="_Toc430948883" class="anchor"></span>그림 29 클라이언트 수정 화면
 
- ## 1.6 디스크 관리
+## 1.6 디스크 관리
+
 
 -   클릭 시, 새로운 디스크 추가하는 팝업이 뜸
 
@@ -299,11 +327,11 @@ share: true
 
 -   새 디스크 등록, 편집, 삭제, 복사, 복구 기능
 
-<img src="/images/admin_manual/media/image16.png" width="642" height="456" />
+<img src="./admin_manual/media/image18.png" width="642" height="456" />
 
-<span id="_Toc486515771" class="anchor"></span>그림 29 디스크 관리 화면
+<span id="_Toc430948884" class="anchor"></span>그림 30 디스크 관리 화면
 
-### 1.6.1 디스크 생성 화면
+#### 1.6.1 디스크 생성 화면
 
 -   메모를 제외한 항목 필수 입력
 
@@ -311,11 +339,11 @@ share: true
 
 -   수정은 메모만 가능
 
-<img src="/images/admin_manual/media/image17.png" width="409" height="365" />
+<img src="./admin_manual/media/image19.png" width="409" height="365" />
 
-<span id="_Toc486515772" class="anchor"></span>그림 30 디스크 생성 화면
+<span id="_Toc430948885" class="anchor"></span>그림 31 디스크 생성 화면
 
-### 1.6.2 디스크 복사 화면
+#### 1.6.2 디스크 복사 화면
 
 -   이름 중복 불가능
 
@@ -323,46 +351,50 @@ share: true
 
 -   관리자 비밀번호 인증 후 사용 가능
 
-<img src="/images/admin_manual/media/image18.png" width="437" height="282" />
+<img src="./admin_manual/media/image20.png" width="437" height="282" />
 
-<span id="_Toc486515773" class="anchor"></span>그림 31 디스크 복사 화면
+<span id="_Toc430948886" class="anchor"></span>그림 32 디스크 복사 화면
 
-### 1.6.3 스냅샷 복구 화면
+#### 1.6.3 스냅샷 복구 화면
 
 -   복구할 스냅샷 선택 후 복구
 
 -   관리자 비밀번호 인증 후 사용 가능
 
-<img src="/images/admin_manual/media/image19.png" width="451" height="243" />
+<img src="./admin_manual/media/image21.png" width="451" height="243" />
 
-<span id="_Toc486515774" class="anchor"></span>그림 32 스냅샷 복구 화면
+<span id="_Toc430948887" class="anchor"></span>그림 33 스냅샷 복구 화면
 
- ## 1.7 관리자 설정
+#### 1.6.4 디스크 용량 증가
 
-### 1.7.1 관리자 설정 화면
+-   용량을 증가할 디스크 편집 메뉴 선택
 
--   클릭 시, 수정한 관리자 정보 저장
+-   증가할 용량을 입력하고 확인을 누르면 일정 시간 후 증가 함
 
--   클릭 시, 수정한 PC방 코드 저장
+-   완료 된 후 클라이언트에서 마스터 업데이트를 수행한다.
 
--   클릭 시, 중앙서버에 인증 요청
+<img src="./admin_manual/media/image22.png" width="497" height="432" />
+
+## 1.7 관리자 설정
+
+#### 1.7.1 관리자 설정 화면
+
+-   수정한 관리자 정보 저장
+
+-   온라인 인증 서버에 인증 요청
 
 -   관리자 e-mail, 비밀번호 등록 (미등록 시 비밀번호 찾기 시 메일 전송 x)
 
--   중앙 관리자에게 받은 PC방 코드 입력(필수)
+<img src="./admin_manual/media/image23.png" width="583" height="389" />
 
-![](/images/admin_manual/media/image20.png)
+<span id="_Toc430948892" class="anchor"></span>그림 34 관리자 설정 화면
 
-<span id="_Toc486515775" class="anchor"></span>그림 37 관리자 설정 화면
+## 1.8 기타
 
- ## 1.8 기타
-
-### 1.8.1 관리자 비밀번호 인증
+#### 1.8.1 관리자 비밀번호 인증
 
 -   디스크 복사/복구/삭제, 클라이언트 업데이트/삭제 시 관리자 비밀번호 인증이 필요함.
 
 -   현재 로그인중인 관리자 비밀번호 인증
 
-<img src="/images/admin_manual/media/image21.png" width="237" height="182" />
-
-<span id="_Toc486515776" class="anchor"></span>그림 38 관리자 비밀번호 인증
+<img src="./admin_manual/media/image24.png" width="237" height="182" />
