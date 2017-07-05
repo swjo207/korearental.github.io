@@ -33,23 +33,21 @@ share: true
 
 ### 2.1 시리얼번호 발급 신청
 
-1.  온라인 인증 서버 로그인
+#### 1)  온라인 인증 서버 로그인
 
     *  발급 받은 아이디로 로그인 한다.
 
 <img src="/images/online_cert_guide/media/image1.png" width="530" height="246" />
 
-2.  시리얼 번호 요청 페이지
+#### 2)  시리얼 번호 요청 페이지
 
     *  화면에는 요청한 시리얼 번호리스트 출력됨
 
-    *  새로운 요청 추가 메뉴를 클릭하여 신규 시리얼 번호를 요청한다. 
+    *  새로운 요청 추가 메뉴를 클릭하여 신규 시리얼 번호를 요청한다.
 
 <img src="/images/online_cert_guide/media/image2.png" width="615" height="196" />
 
-3.  요청 페이지 입력 값
-
-<img src="/images/online_cert_guide/media/image3.png" width="403" height="221" />
+#### 3)  요청 페이지 입력 값
 
     *  회사란에는 고객 회사이름 자성. (단 한 회사에 여러 개의 시스템 적용 하 때 회사이름 뒤에 추가적인 정보입력 하여야 한다. Ahope-랩실1, ahope-랩실2)
 
@@ -57,7 +55,10 @@ share: true
 
     *  인증 만료일은 인증만료 날자를 입력 하여야하며 입력값 폼은 2017-12-31 과 같은 폼으로 입력 하여야 한다.
 
-4.  시리얼 번호 확인
+<img src="/images/online_cert_guide/media/image3.png" width="403" height="221" />
+
+
+#### 4)  시리얼 번호 확인
 
     *  신청 완료 하면 인증관리 페이지에서 시리얼 번호 확인 및 복사 한다.
 
